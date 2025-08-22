@@ -11,7 +11,7 @@
 </p>
 
 ---
-
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 👋 Hey there! I'm @Altamash-Shaikh07 — a curious soul and a software engineering student.  
 🎓 Currently pursuing **BTech in Information Science and Engineering at REVA University**.  
 💻 Learning **Full-Stack Development**, preparing **DSA in C++/Java**, and planning to build **ML projects**.  
