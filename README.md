@@ -15,7 +15,7 @@
 👋 Hey there! I'm @Altamash-Shaikh07 — a curious soul and a software engineering student.  
 🎓 Currently pursuing **BTech in Information Science and Engineering at REVA University**.  
 💻 Learning **Full-Stack Development**, preparing **DSA in C++/Java**, and planning to build **ML projects**.  
-📬 Reach out: altamashshaikh7864@gmail.com  
+📬 Reach out: altamashshaikh8421@gmail.com  
 
 <h3 align="center">✦✦✦  A PASSIONATE DEVELOPER   ✦✦✦</h3>
 
