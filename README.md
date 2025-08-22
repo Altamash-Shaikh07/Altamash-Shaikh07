@@ -23,7 +23,6 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/altamash-s-shaikh) 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Altamash-Shaikh07)
 
 ---
 
@@ -55,20 +54,6 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Altamash-Shaikh07&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Altamash-Shaikh07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-## 🏆 GitHub Achievements
-![Commit Champion](https://img.shields.io/badge/Commits-High%20Activity-blueviolet?style=for-the-badge&logo=github)
-![PR Hero](https://img.shields.io/badge/Pull%20Requests-Consistent%20Contributor-brightgreen?style=for-the-badge&logo=git)
-![Issue Resolver](https://img.shields.io/badge/Issues-Feedback%20Driven-orange?style=for-the-badge&logo=github)
-![Star Collector](https://img.shields.io/badge/Stars-Open%20Source%20Impact-yellow?style=for-the-badge&logo=github)
-![Follower Power](https://img.shields.io/badge/Followers-Growing%20Community-blue?style=for-the-badge&logo=github)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Altamash-Shaikh07&icon=5&color=11)](https://visitcount.itsvg.in)
