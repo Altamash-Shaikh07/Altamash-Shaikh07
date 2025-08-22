@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<img align="center" src="https://readme-typing-svg.herokuapp.com?font=&size=30&color=0ef7f7&vCenter=true&width=600&height=100&lines=Hi+I'm+Altamash+Shaikh;Software+Engineering+Student;Full+Stack+Developer+Enthusiast;DSA+%26+ML+Learner;Welcome+to+my+GitHub+Profile!" />
+<img align="center" src="https://readme-typing-svg.herokuapp.com?font=&size=30&color=0ef7f7&vCenter=true&width=600&height=100&lines=Hi+I'm+Altamash+Shaikh;Software+Engineering+Student;Full+Stack+Developer+Enthusiast;DSA+%26+ML+Learner+Data Scientist;Welcome+to+my+GitHub+Profile!" />
 </p>
 
 ---
@@ -17,7 +17,7 @@
 💻 Learning **Full-Stack Development**, preparing **DSA in C++/Java**, and planning to build **ML projects**.  
 📬 Reach out: altamashshaikh8421@gmail.com  
 
-<h3 align="center">✦✦✦  A PASSIONATE DEVELOPER   ✦✦✦</h3>
+<h3 align="center">✦✦✦  A PASSIONATE Full-Stack DEVELOPER   ✦✦✦</h3>
 
 ---
 
