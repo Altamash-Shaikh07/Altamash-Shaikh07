@@ -62,7 +62,7 @@ altamashshaikh8421@gmail.com
 
 <!-- Streak Tracker -->
 <p>
-  <img align="center" src="https://streak-stats.demolab.com?user=Altamash-Shaikh07&theme=highcontrast&hide_border=false" alt="Altamash's GitHub Streak" />
+  <img align="center" src="https://git-hub-streak-stats.vercel.app/?user=Altamash-Shaikh07&theme=highcontrast&hide_border=false" alt="Altamash's GitHub Streak" />
 </p>
 
 <!-- Top Languages -->
