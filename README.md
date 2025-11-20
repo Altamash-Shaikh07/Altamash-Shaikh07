@@ -57,8 +57,9 @@ altamashshaikh8421@gmail.com
 
 <!-- Contribution Overview -->
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Altamash-Shaikh07&theme=highcontrast&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&locale=en&cache_seconds=1"
-  alt="Altamash's GitHub stats" />
+  <img align="center"
+       src="https://github-readme-stats.vercel.app/api?username=Altamash-Shaikh07&theme=highcontrast&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&locale=en"
+       alt="Altamash's GitHub stats" />
 </p>
 
 <!-- Streak Tracker -->
