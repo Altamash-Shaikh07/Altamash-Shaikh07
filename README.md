@@ -6,10 +6,6 @@
 <img alt="coding" align="center" height=250 width=250 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif"/>
 </p>
 
-<p align="center">
-<img align="center" src="https://readme-typing-svg.herokuapp.com?font=&size=30&color=0ef7f7&vCenter=true&width=600&height=100&lines=Hi+I'm+Altamash+Shaikh;Software+Engineering+Student;Full+Stack+Developer+Enthusiast;DSA+%26+ML+Learner+Data Scientist;Welcome+to+my+GitHub+Profile!" />
-</p>
-
 ---
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 👋 Hey there! I'm @Altamash-Shaikh07 — a curious soul and a software engineering student.  
