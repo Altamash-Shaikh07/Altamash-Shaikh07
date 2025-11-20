@@ -3,9 +3,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Altamash-Shaikh07&label=Profile%20views&color=0e75b6&style=flat) 
 
 <p align="center">
-<img alt="coding" align="center" height=250 width=250 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif"/>
-</p>
-<p align="center">
   <!-- Typing animation -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=00C4FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Altamash+Shaikh;Engineering+Student+%7C+Full+Stack+Learner;Future+Data+Scientist+%26+ML+Engineer;Always+Exploring,+Always+Building!" />
 </p>
