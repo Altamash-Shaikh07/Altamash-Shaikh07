@@ -74,5 +74,3 @@ altamashshaikh8421@gmail.com
        alt="Top Languages" 
   />
 </p>
----
-[![](https://visitcount.itsvg.in/api?id=Altamash-Shaikh07&icon=5&color=11)](https://visitcount.itsvg.in)
