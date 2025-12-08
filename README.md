@@ -56,11 +56,11 @@ altamashshaikh8421@gmail.com
 ## 📊 GitHub Stats
 
 <!-- Contribution Overview -->
-
-<p>
-  <img align="center"
-       src="https://github-readme-stats-git-masterorghel.vercel.app/api?username=Altamash-Shaikh07&theme=highcontrast&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&locale=en"
-       alt="Altamash's GitHub stats" />
+<p align="center">
+  <img 
+       src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Altamash-Shaikh07&theme=highcontrast&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&locale=en"
+       alt="Altamash's GitHub stats"
+  />
 </p>
 <!-- Streak Tracker -->
 <p>
@@ -69,8 +69,10 @@ altamashshaikh8421@gmail.com
 
 <!-- Top Languages -->
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Altamash-Shaikh07&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img align="center" 
+       src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=Altamash-Shaikh07&theme=highcontrast&hide_border=false&layout=compact" 
+       alt="Top Languages" 
+  />
 </p>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Altamash-Shaikh07&icon=5&color=11)](https://visitcount.itsvg.in)
