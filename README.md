@@ -1,15 +1,12 @@
-<p align="center">
-  <img src="https://i.ibb.co/vz609Xy0/20251111-132702.jpg" alt="Altamash Shaikh" width="200" style="border-radius: 50%; border: 5px solid #0e75b6;" />
+<p align="center" style="margin:0; padding:0;">
+  <img src="Altamash.jpeg" alt="Altamash Shaikh Banner" width="100%" style="display:block;" />
 </p>
-
 <h1 align="center">Hi 👋, I'm Altamash Shaikh</h1>
 <h3 align="center">Engineering Student | Full-Stack & ML Learner</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=altamash-shaikh07&label=Profile%20views&color=0e75b6&style=flat" alt="altamash-shaikh07" />
 </p>
-
----
 
 ### 👨‍💻 About Me
 
