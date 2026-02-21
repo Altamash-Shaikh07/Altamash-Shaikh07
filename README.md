@@ -39,3 +39,6 @@
   <br><br>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=altamash-shaikh07&theme=radical" alt="altamash-shaikh07" />
 </p>
+<p align="center">
+⭐ *Always learning. Always building. Always improving.*
+</p>
