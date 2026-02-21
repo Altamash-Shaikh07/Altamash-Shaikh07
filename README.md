@@ -1,76 +1,44 @@
-# 💫 About Me:
-
-![Profile Views](https://komarev.com/ghpvc/?username=Altamash-Shaikh07&label=Profile%20views&color=0e75b6&style=flat) 
 <p align="center">
-<img alt="coding" align="center" height=250 width=250 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif"/>
+  <img src="https://i.ibb.co/vz609Xy0/20251111-132702.jpg" alt="Altamash Shaikh" width="200" style="border-radius: 50%; border: 5px solid #0e75b6;" />
 </p>
 
+<h1 align="center">Hi 👋, I'm Altamash Shaikh</h1>
+<h3 align="center">Engineering Student | Full-Stack & ML Learner</h3>
+
 <p align="center">
-  <!-- Typing animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=00C4FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Altamash+Shaikh;Engineering+Student+%7C+Full+Stack+Learner;Future+Data+Scientist+%26+ML+Engineer;Always+Exploring,+Always+Building!" />
+  <img src="https://komarev.com/ghpvc/?username=altamash-shaikh07&label=Profile%20views&color=0e75b6&style=flat" alt="altamash-shaikh07" />
 </p>
-
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-👋 Hey! I’m Altamash Shaikh (@Altamash-Shaikh07) — a passionate learner and an aspiring software engineer driven by curiosity and problem-solving.
-
-🎓 Pursuing B.Tech in Information Science & Engineering at REVA University, Bengaluru.
-
-💻 Currently exploring and building skills in:
-
-⚙️ Full-Stack Development
-
-🧩 Data Structures & Algorithms (C++)
-
-🤖 Machine Learning & AI (planning upcoming projects)
-
-🎯 Career Goal:
-To become a skilled Software Engineer who builds scalable, real-world solutions — combining strong development skills with data-driven technologies like ML and AI.
-
-📬 Reach out:
-altamashshaikh8421@gmail.com
-
-<h3 align="center">✦✦✦  Future Software Engineer | Full-Stack & ML Learner  ✦✦✦</h3>
-
 
 ---
 
-## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/altamash-s-shaikh/)
+### 👨‍💻 About Me
+
+- 🌱 I’m currently learning **MERN, DSA in C++, and Machine Learning**
+- 👯 I’m looking to collaborate on **Web Development and ML projects**
+- 📂 My projects are available at [My Portfolio](https://portfolio-eight-alpha-60.vercel.app/)
+- 💬 Ask me about **Web Dev, C++, or Python**
+- 📫 Reach me at: **altamashshaikh8421@gmail.com**
+- ⚡ Fun fact: **I am funny** 😎
 
 ---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobephotoshop&logoColor=white)
+### 🌐 Connect with me:
+<p align="left">
+<a href="https://www.linkedin.com/in/altamash-s-shaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://instagram.com/mr_altu_.09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@altamasheditz0960" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
+</p>
 
----
+### 🛠 Languages and Tools:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,cpp,py,c,django,mysql,postgresql,html,css,bootstrap,tailwind,tensorflow,docker,linux,figma,ps,blender" />
+</p>
 
-## 📊 GitHub Stats
-
-<!-- Contribution Overview -->
+### 📊 GitHub Stats:
 <p align="center">
-  <img 
-       src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Altamash-Shaikh07&theme=highcontrast&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&locale=en"
-       alt="Altamash's GitHub stats"
-  />
-</p>
-<!-- Streak Tracker -->
-<p>
-  <img align="center" src="https://git-hub-streak-stats.vercel.app/?user=Altamash-Shaikh07&theme=highcontrast&hide_border=false" alt="Altamash's GitHub Streak" />
-</p>
-
-<!-- Top Languages -->
-<p>
-  <img align="center" 
-       src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=Altamash-Shaikh07&theme=highcontrast&hide_border=false&layout=compact" 
-       alt="Top Languages" 
-  />
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=altamash-shaikh07&show_icons=true&locale=en&theme=radical" alt="Altamash Stats" />
+  <br><br>
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=altamash-shaikh07&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <br><br>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=altamash-shaikh07&theme=radical" alt="altamash-shaikh07" />
 </p>
