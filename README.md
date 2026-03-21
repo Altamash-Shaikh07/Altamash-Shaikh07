@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=altamash-shaikh07&label=Profile%20views&color=0e75b6&style=flat" alt="altamash-shaikh07" />
 </p>
 
-### 👨‍💻 About Me
+### 👨‍💻 About Me 
 
 - 🌱 I’m currently learning **MERN, DSA in C++, and Machine Learning**
 - 👯 I’m looking to collaborate on **Web Development and ML projects**
