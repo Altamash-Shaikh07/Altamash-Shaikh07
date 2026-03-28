@@ -1,5 +1,5 @@
 <p align="center" style="margin:0; padding:0;">
-  <img src="Altamash.png" alt="Altamash Shaikh Banner" width="100%" style="display:block;" />
+  <img src="Iconic.gif" alt="Altamash Shaikh Banner" width="100%" style="display:block;" />
 </p>
 <h1 align="center">Hi 👋, I'm Altamash Shaikh</h1>
 <h3 align="center">Engineering Student | Full-Stack & ML Learner</h3>
