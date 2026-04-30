@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=altamash-shaikh07&label=Profile%20views&color=0e75b6&style=flat" alt="altamash-shaikh07"/>
 </p>
 
-### 👨‍💻 About Me:
+### 👨‍💻 About Me: 
 
 - 🌱 I’m currently learning **MERN, DSA in C++, and Machine Learning**
 - 👯 I’m looking to collaborate on **Web Development and ML projects**
@@ -20,7 +20,7 @@
 
 ---
 
-### 🌐 Connect with me:
+### 🌐 Connect with me: 
 <p align="left">
 <a href="https://www.linkedin.com/in/altamash-s-shaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
@@ -30,7 +30,7 @@
   <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,cpp,py,c,django,mysql,postgresql,html,css,bootstrap,tailwind,tensorflow,docker,linux,figma,ps,blender" />
 </p>
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats: 
 <p align="center">
   <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=altamash-shaikh07&show_icons=true&locale=en&theme=radical" alt="Altamash Stats" />
   <br><br>
