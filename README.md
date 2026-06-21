@@ -20,12 +20,12 @@
 
 ---
 
-### 🌐 Connect with me:
+### 🌐 Connect with me:  
 <p align="left">
 <a href="https://www.linkedin.com/in/altamash-s-shaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
-### 🛠 Languages and Tools:
+### 🛠 Languages and Tools:  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,cpp,py,c,django,mysql,postgresql,html,css,bootstrap,tailwind,tensorflow,docker,linux,figma,ps,blender" />
 </p>
