@@ -30,7 +30,7 @@
   <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,cpp,py,c,django,mysql,postgresql,html,css,bootstrap,tailwind,tensorflow,docker,linux,figma,ps,blender" />
 </p>
 
-### 📊 GitHub Stats:  
+### 📊 GitHub Stats:
 <p align="center"> 
   <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=altamash-shaikh07&show_icons=true&locale=en&theme=radical" alt="Altamash Stats" />
   <br><br>
