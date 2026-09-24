@@ -27,7 +27,7 @@
 
 ### 🛠 Languages and Tools: 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,cpp,py,c,django,mysql,postgresql,html,css,bootstrap,tailwind,tensorflow,docker,linux,figma,ps,blender" />
+  <img src="https://skillicons.dev/icons?i=mongodb,express,TypeScript,nodejs,cpp,py,c,django,mysql,postgresql,html,css,bootstrap,tailwind,tensorflow,docker,linux,figma,ps,blender" />
 </p> 
 
 
