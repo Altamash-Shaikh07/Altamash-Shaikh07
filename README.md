@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me: 
 
-- 🌱 I’m currently learning **MERN, DSA in Java, and Machine Learning**
+- 🌱 I’m currently learning **MERN, DSA in Java, and Machine Learning** 
 - 👯 I’m looking to collaborate on **Web Development and ML projects**
 - 📂 My projects are available at [My Portfolio](https://portfolio-eight-alpha-60.vercel.app/)
 - 💬 Ask me about **Web Dev, C++, or Python**
