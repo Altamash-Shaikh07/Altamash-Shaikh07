@@ -20,7 +20,7 @@
 
 ---
 
-### 🌐 Connect with me: 
+### 🌐 Connect with me:
 <p align="left"> 
 <a href="https://www.linkedin.com/in/altamash-s-shaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
@@ -31,7 +31,7 @@
 </p> 
 
 
-### 📊 GitHub Stats:     
+### 📊 GitHub Stats:   
 <p align="center"> 
   <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=altamash-shaikh07&show_icons=true&locale=en&theme=radical" alt="Altamash Stats" />
   <br><br>
