@@ -37,7 +37,6 @@
 * 🌱 **Currently Learning:** MERN Stack, Data Structures & Algorithms (Java), and ML Models.
 * 👯 **Collaboration:** Open for Web Development & Machine Learning projects.
 * 🌐 **Portfolio:** Check out my work at [altamash-shaikh.vercel.app](https://portfolio-eight-alpha-60.vercel.app/)
-* 💬 **Ask me about:** Web Development, C++, Python & Problem Solving.
 * ⚡ **Fun Fact:** I am funny 😎 (and I write clean code)!
 
 <br/>
