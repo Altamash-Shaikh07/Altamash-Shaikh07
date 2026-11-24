@@ -21,7 +21,7 @@
 
 ---
    
-### 🌐 Connect with me:
+### 🌐 Connect with me:   
 <p align="left"> 
 <a href="https://www.linkedin.com/in/altamash-s-shaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
@@ -41,5 +41,5 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=altamash-shaikh07&theme=radical" alt="altamash-shaikh07" />
 </p>
 <p align="center">
-⭐ *Always learning. Always building. Always improving.*
+⭐ *Always learning. Always building. Always improving.*   
 </p>
