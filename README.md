@@ -19,7 +19,7 @@
 - 📫 Reach me at: **altamashshaikh8421@gmail.com**
 - ⚡ Fun fact: **I am funny** 😎
 
----
+---  
    
 ### 🌐 Connect with me:   
 <p align="left"> 
